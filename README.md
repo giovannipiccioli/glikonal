@@ -71,5 +71,5 @@ To cite this repository use INCLUDE HERE PAPER REFERENCE
 1. PAPER
 
 2. Sethian, J. A. (1996). A fast marching level set method for monotonically advancing fronts. *Proceedings of the National Academy of Sciences, 93*(4), 1591–1595. https://doi.org/10.1073/pnas.93.4.1591
-3. Sethian, J. A., & Vladimirsky, A. (2003). Ordered upwind methods for static Hamilton--Jacobi equations: Theory and algorithms. SIAM Journal on Numerical Analysis, 41(1), 325-363.
+3. Sethian, J. A., & Vladimirsky, A. (2003). Ordered upwind methods for static Hamilton-Jacobi equations: Theory and algorithms. SIAM Journal on Numerical Analysis, 41(1), 325-363.
 

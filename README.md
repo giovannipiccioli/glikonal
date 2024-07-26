@@ -1,5 +1,5 @@
 # This is the *Glikonal* repository
-This repository contains the code and examples for the Glikonal-G and Glikonal-M algorithms introduced in the paper Computing an Aircraft's Gliding Range and Minimal Return Altitude in Presence of Obstacles and Wind (https://arxiv.org/abs/2407.18056).
+This repository contains the code and examples for the Glikonal-G and Glikonal-M algorithms introduced in the paper 'Computing an Aircraft's Gliding Range and Minimal Return Altitude in Presence of Obstacles and Wind' (https://arxiv.org/abs/2407.18056).
 It also contains the code to reproduce the figures in the paper.
 
 ### Glikonal-G

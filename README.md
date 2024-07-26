@@ -1,5 +1,5 @@
 # This is the *Glikonal* repository
-This repository contains the code and examples for the Glikonal-G and Glikonal-M algorithms introduced in CITE PAPER WHEN OUT.
+This repository contains the code and examples for the Glikonal-G and Glikonal-M algorithms introduced in the paper Computing an Aircraft's Gliding Range and Minimal Return Altitude in Presence of Obstacles and Wind (https://arxiv.org/abs/2407.18056).
 It also contains the code to reproduce the figures in the paper.
 
 ### Glikonal-G
@@ -64,11 +64,13 @@ We use the same topographic data from Switzerland and use Glikonal-G to compute 
 
 
 ## How to cite
-To cite this repository use INCLUDE HERE PAPER REFERENCE
+To cite this repository use 
+
+ Piccioli, G. (2024). Computing an Aircraft's Gliding Range and Minimal Return Altitude in Presence of Obstacles and Wind. arXiv preprint arXiv:2407.18056 
 
 
 ## References
-1. PAPER
+1. Piccioli, G. (2024). Computing an Aircraft's Gliding Range and Minimal Return Altitude in Presence of Obstacles and Wind. arXiv preprint arXiv:2407.18056 
 
 2. Sethian, J. A. (1996). A fast marching level set method for monotonically advancing fronts. *Proceedings of the National Academy of Sciences, 93*(4), 1591–1595. https://doi.org/10.1073/pnas.93.4.1591
 3. Sethian, J. A., & Vladimirsky, A. (2003). Ordered upwind methods for static Hamilton-Jacobi equations: Theory and algorithms. SIAM Journal on Numerical Analysis, 41(1), 325-363.
